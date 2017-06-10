@@ -1,4 +1,8 @@
-package demo
+package plugin
+
+/**
+ * Created by grodion on 6/9/17.
+ */
 
 fun getGreeting(): String {
     val words = mutableListOf<String>()
