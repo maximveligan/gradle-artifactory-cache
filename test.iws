@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f52132-3e8d-4fdf-b791-62b36a0810fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/plugin/Plugin.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_test.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/Library.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/demo/HelloWorldKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-classes/main/META-INF/test_main.kotlin_module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/kotlin-classes/main/demo/HelloWorldKt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Library.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/kotlin/demo/HelloWorld.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/META-INF/test_main.kotlin_module" afterPath="$PROJECT_DIR$/build/classes/main/META-INF/test_main.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/plugin/ArtifactoryAPITest.class" afterPath="$PROJECT_DIR$/build/classes/test/plugin/ArtifactoryAPITest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/plugin/ArtifactoryAPITestKt.class" afterPath="$PROJECT_DIR$/build/classes/test/plugin/ArtifactoryAPITestKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt" afterPath="$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iws" afterPath="$PROJECT_DIR$/test.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testFiles/test1" afterPath="$PROJECT_DIR$/testFiles/test1" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -80,15 +71,18 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ArtifactoryAPITest.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="435">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
               <folding>
-                <element signature="e#58#182#0" expanded="true" />
+                <element signature="e#58#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -341,7 +335,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4491049182000" />
+        <entry key="$PROJECT_DIR$" value="4491051023000" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1036042073" />
       </map>
     </option>
@@ -511,9 +505,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -567,79 +559,11 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gradle-artifactory-cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gradle-artifactory-cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gradle-artifactory-cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -960,34 +884,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArtifactoryAPITest - 2017.06.10 at 00h 05m 37s.xml">
-      <configuration name="ArtifactoryAPITest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.09 at 23h 57m 18s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 18h 35m 12s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.09 at 23h 58m 44s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 18h 39m 29s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.09 at 23h 59m 01s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 01m 26s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 02m 19s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 02m 13s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 04m 22s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 23m 05s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 04m 44s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 31m 24s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 08m 19s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 38m 18s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 10m 52s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 48m 25s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 00h 12m 32s.xml">
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 51m 56s.xml">
+      <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArtifactoryAPITest_testLoad - 2017.06.10 at 19h 53m 05s.xml">
       <configuration name="ArtifactoryAPITest.testLoad" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -997,26 +921,26 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30029154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26253918" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13949843" sideWeight="0.83381927" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941692" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13949843" sideWeight="0.16618076" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1034,7 +958,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1043,11 +967,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#58#241#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,10 +987,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#58#182#0" expanded="true" />
+            <element signature="e#58#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/plugin/Plugin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/plugin/Plugin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/plugin/ArtifactoryAPITest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="e#58#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
