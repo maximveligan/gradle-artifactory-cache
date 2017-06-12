@@ -1,3 +1,8 @@
 # Ignore Gradle
 build/
 .gradle/
+
+# Ignore Idea Intellij Files
+*.iml
+*.ipr
+*.iws
